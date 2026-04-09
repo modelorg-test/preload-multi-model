@@ -1,2 +1,3 @@
-# preload-multi-model
-Auto-created test repo (preload-multi-model)
+# Multi-Model Repository
+
+Contains model_alpha and model_beta.
