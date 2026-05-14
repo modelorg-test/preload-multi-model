@@ -1,0 +1,9 @@
+drift_detection: true
+features:
+- feature_a
+- feature_b
+psi_threshold: 0.2
+quality_metrics:
+- completeness
+- uniqueness
+schedule: daily

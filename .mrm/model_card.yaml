@@ -1,0 +1,11 @@
+name: Multi-Model Mono-repo
+description: Legacy unified analytics repo.
+stage: development
+current_version: 1.0.0
+risk_tier: low
+framework: custom
+owner: analytics
+scope: Internal BI
+tags:
+  domain: analytics
+  env: internal
